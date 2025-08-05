@@ -7,7 +7,7 @@
         "minTime": 30,
         "maxTime": 40,
         "name": "Pizzas",
-        "place": "New Jodhpur"
+        "place": "Andheri East"
     },
     {
         "image": "75d0b3ebeb56fe2484c944e94cac7a8d.jpeg",
@@ -27,7 +27,7 @@
         "minTime": 35,
         "maxTime": 40,
         "name": "North India, Thalis",
-        "place": "Sardarpura"
+        "place": "Versova"
     },
     {
         "image": "eillc7d7hbrzcuussus5.jpeg",
@@ -36,8 +36,8 @@
         "rating": 4.5,
         "minTime": 25,
         "maxTime": 25,
-        "name": "Desserts,Ice Cream",
-        "place": "Chopsani Housing Board"
+        "name": "Desserts, Ice Cream",
+        "place": "Santacruz East"
     },
     {
         "image": "6e04be27387483a7c00444f8e8241108.jpeg",
@@ -56,8 +56,8 @@
         "rating": 4.7,
         "minTime": 25,
         "maxTime": 30,
-        "name": "Desserts,Ice Cream",
-        "place": "Sardarpura"
+        "name": "Desserts, Ice Cream",
+        "place": "Marol"
     },
     {
         "image": "f1bc9ddf53de574cdc35ab2f717df234.jpeg",
@@ -67,7 +67,7 @@
         "minTime": 35,
         "maxTime": 40,
         "name": "South Indian",
-        "place": "Chopsani Housing Board"
+        "place": "Juhu"
     },
     {
         "image": "919cb3be0e7406f86f6741ebe7c30128.jpeg",
@@ -87,7 +87,7 @@
         "minTime": 30,
         "maxTime": 35,
         "name": "American",
-        "place": "Rawaton Ka Bass"
+        "place": "Bandra West"
     },
     {
         "image": "2a41aa363a8ae1e98a4cce95c2d0c589.jpeg",
@@ -97,6 +97,6 @@
         "minTime": 35,
         "maxTime": 40,
         "name": "Cake",
-        "place": "Chopsani Housing Board"
+        "place": "Mahakali"
     }
 ]
